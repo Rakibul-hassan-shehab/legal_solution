@@ -1,0 +1,12 @@
+.hero_section{
+    background: url(legal_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.hoverable:hover{
+    background-color: aliceblue;
+}
+.backgroun-text{
+    margin-bottom: 300px;
+}
