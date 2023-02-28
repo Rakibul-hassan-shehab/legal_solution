@@ -10,3 +10,25 @@
 .backgroun-text{
     margin-bottom: 300px;
 }
+.contact-area{
+    margin-left: 50px;
+}
+#input_area{
+    width: 500px;
+    height: 70px;
+    margin: 25px 0px 0px 0px;
+}
+.main_container{
+    padding-left: 100px;
+}
+#button{
+    width: 500px;
+}
+.form_area{
+    margin-left: 20px;
+}
+#input_area1{
+    margin-top: 20px;
+    width: 500px;
+    height: 120px;
+}
